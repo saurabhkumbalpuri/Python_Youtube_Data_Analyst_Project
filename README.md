@@ -1,2 +1,3 @@
-# Python_Youtube_Data_Analyst_Project
-This project helps to provide valuable insights into Amazon sales data, making it easier for businesses or individuals to optimize their sales strategies, track product performance, and discover trends in the marketplace.
+# Python_Amazon_Sales_Analysis
+
+Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
